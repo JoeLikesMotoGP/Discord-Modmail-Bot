@@ -1,11 +1,11 @@
 {
-    "token": "YOUR TOKEN",
-    "prefix": "?",
+    "token": "MTAwNTQxNTU5MTM1MzUyNDIzNA.GTXZ1r.k6uSzXIVvzz0tGCnt-T8arw8H91N8LYpeeAJeI",
+    "prefix": "-",
     "colors": {
         "positive": "GREEN"
     },
     "modmail": {
-        "server_id": "YOUR SERVER ID",
-        "role_ids": ["ROLE ID"]
+        "server_id": "1005048176434221076",
+        "role_ids": ["1020241235530760232"]
     }
 }
